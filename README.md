@@ -50,9 +50,6 @@
 
 ### 🚀 Featured Projects:
 - **[MERN Project 1](https://github.com/yourusername/project1)** – Short description.  
-- **[MERN Project 2](https://github.com/yourusername/project2)** – Short description.  
-- **[Open Source Contribution](https://github.com/yourusername/project3)** – Short description.  
-
 ---
 
 ⭐ *From [Saif Jawed](https://github.com/saifjawed)*
