@@ -14,7 +14,7 @@
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifjavedranchi@gmail.com)  
 
 ---
 
@@ -50,9 +50,9 @@
 ---
 
 ### 🚀 Featured Projects:
-- **[MERN Project 1](https://github.com/yourusername/project1)** – Short description.  
-- **[MERN Project 2](https://github.com/yourusername/project2)** – Short description.  
-- **[Open Source Contribution](https://github.com/yourusername/project3)** – Short description.  
+- **[MERN Project 1](https://github.com/yourusername/project1)**   
+- **[MERN Project 2](https://github.com/yourusername/project2)** 
+- **[Open Source Contribution](https://github.com/yourusername/project3)**
 
 ---
 
