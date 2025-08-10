@@ -65,7 +65,7 @@
 ---
 
 ### 🚀 Featured Projects:
-- **[MERN Project 1](https://github.com/yourusername/project1)** – A full-featured (Full-Stack) EdTech platform enabling course creation, secure payments, multimedia content and many more.
+- **[MERN Project 1](https://github.com/yourusername/project1)** – SkillNest is a full-stack MERN EdTech platform with role-based access, media uploads, payments, dashboards, and responsive design, enabling instructors to create courses and students to learn, track progress, and engage seamlessly.
   
 ---
 
