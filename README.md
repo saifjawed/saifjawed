@@ -20,7 +20,7 @@
     <a href="https://in.linkedin.com/in/saif-jawed-4ba70b35a" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://your-portfolio-link.com" target="_blank">
+    <a href="https://portfolio-nine-sigma-52.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=saifjawedranchi@gmail.com&su=Hello%20Saif">
