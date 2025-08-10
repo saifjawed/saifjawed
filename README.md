@@ -58,7 +58,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saifjawed&show_icons=true&theme=tokyonight" height="160px"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=saifjawed&show_icons=true&theme=tokyonight" height="160px"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifjawed&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
