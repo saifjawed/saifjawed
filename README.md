@@ -65,9 +65,8 @@
 ---
 
 ### 🚀 Featured Projects:
-- **[MERN Project 1](https://github.com/yourusername/project1)** – Short description.  
-- **[MERN Project 2](https://github.com/yourusername/project2)** – Short description.  
-
+- **[MERN Project 1](https://github.com/yourusername/project1)** – A full-featured (Full-Stack) EdTech platform enabling course creation, secure payments, multimedia content and many more.
+  
 ---
 
 <p align="center">
